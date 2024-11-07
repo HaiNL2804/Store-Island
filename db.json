@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Quần gió Island Pants",
+      "price": 25000,
+      "image": "https://my-live-01.slatic.net/p/fe10fc135a5b64a292b2e42f33da5bf8.jpg",
+      "description": "Quần gió Island Windbreaker Pants là lựa chọn lý tưởng cho những ngày mát mẻ hay các hoạt động ngoài trời. Được làm từ chất liệu gió chống thấm nước nhẹ, quần giúp bạn dễ dàng di chuyển mà không lo ẩm ướt. Thiết kế rộng rãi, thoáng mát, kèm dây rút giúp điều chỉnh độ ôm phù hợp. Với tông màu trung tính và phong cách thể thao, quần gió dễ dàng kết hợp với các loại áo thể thao, áo hoodie. Sản phẩm thích hợp cho các buổi đi chơi, leo núi, hoặc tập luyện ngoài trời, mang lại cảm giác thoải mái và năng động.",
+      "brand": "Island"
+    },
+    {
+      "id": "2",
+      "name": "Quần dài Island Long Pants",
+      "price": 15000,
+      "image": "https://sg-test-11.slatic.net/p/62d5ece6fd1619b5ae50ec586d117591.jpg",
+      "description": "Quần dài Island Long Pants là sản phẩm lý tưởng cho những ai yêu thích sự thoải mái và phong cách thời trang thanh lịch. Với chất liệu cotton và polyester cao cấp, quần mang lại cảm giác mềm mại, thoáng mát và bền bỉ, phù hợp cho cả những ngày dài hoạt động. Thiết kế dáng ôm vừa vặn, nhưng vẫn đủ rộng rãi để đảm bảo sự thoải mái tối đa khi di chuyển. Đường may tinh tế, chắc chắn giúp giữ form dáng quần lâu dài, ngay cả sau nhiều lần sử dụng.",
+      "brand": "Island"
+    },
+    {
+      "id": "3",
+      "name": "Áo len Island Sweater",
+      "price": 8000,
+      "image": "https://cf.shopee.co.th/file/id-11134207-7r98w-lupv9agznp8q16",
+      "description": "Áo len Island Sweater mang đến sự ấm áp và thoải mái cho mùa đông. Với chất liệu len dày dặn, mềm mại, áo giữ nhiệt tốt nhưng vẫn đảm bảo sự thoải mái cho người mặc. Thiết kế cổ tròn hoặc cổ lọ tùy chọn, áo dễ dàng phối cùng quần jeans hoặc chân váy, tạo nên vẻ ngoài thanh lịch và hiện đại. Các màu sắc trung tính như xám, đen, và trắng phù hợp với nhiều phong cách khác nhau. Đây là món đồ không thể thiếu cho những ai yêu thích sự ấm áp và thời trang trong mùa lạnh.",
+      "brand": "Island"
+    },
+    {
+      "id": "4",
+      "name": "Áo thun Island T-shirt",
+      "price": 12000,
+      "image": "https://cf.shopee.co.th/file/id-11134207-7r98r-lmu9evk56hl8c1",
+      "description": "Áo thun Island T-shirt được làm từ chất liệu cotton cao cấp, giúp thấm hút mồ hôi tốt và mang lại cảm giác dễ chịu cho người mặc. Thiết kế đơn giản nhưng không kém phần thời trang, phù hợp với nhiều hoàn cảnh từ đi học, đi làm cho đến dạo phố. Màu sắc đa dạng, dễ phối đồ, áo thun có thể kết hợp hoàn hảo với quần jeans, quần short, hoặc chân váy. Đặc biệt, đường may chắc chắn và tỉ mỉ giúp áo giữ được form dáng lâu dài, ngay cả sau nhiều lần giặt.",
+      "brand": "Island"
+    },
+    {
+      "name": "chamaykhi123",
+      "price": "9999123",
+      "image": "https://picsum.photos/200/120",
+      "dimensions": "123",
+      "id": "a114"
+    },
+    {
+      "name": "Quần Short Nữ ",
+      "price": "500000000",
+      "image": "https://picsum.photos/200/120",
+      "id": "mV3RCN_"
+    },
+    {
+      "name": "Túi Xách",
+      "price": "123123",
+      "image": "https://picsum.photos/200/120",
+      "id": "59KLWiy"
+    }
+  ],
+  "users": [
+    {
+      "email": "hainlph47160@fpt.ed",
+      "password": "$2a$10$Aak9dB6j3bdQ9apIQPe4PeOxNLdaoNmvoOaXJ1YpSniPnM6a2aVpe",
+      "username": "",
+      "id": 1
+    },
+    {
+      "email": "hai@hai.hai",
+      "password": "$2a$10$VQvas.aq19g3x2ke0Nf9JeJEUNYycN00G49LQI0SvigWn0JtwrA3m",
+      "username": "",
+      "id": 2
+    }
+  ]
+}
